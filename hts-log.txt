@@ -1,0 +1,59 @@
+HTTrack3.49-2 launched on Wed, 21 Feb 2024 14:01:23 at https://www.sundaybarbers.com/homepage-1595
+(winhttrack https://www.sundaybarbers.com/homepage-1595 -O "/Users/arg/websites/barbershoplocal" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:03:54	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://www.sundaybarbers.com/homepage-1595)
+14:04:06	Warning: 	Link https://sundaybarbers.resurva.com/book not scanned (follow robots meta tag)
+14:04:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+14:04:39	Warning: 	Retry after error 500 (Internal Server Error) at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+14:04:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_640/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+14:04:41	Warning: 	Retry after error 500 (Internal Server Error) at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_480/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+14:04:42	Warning: 	Retry after error 500 (Internal Server Error) at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_320/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/?hl=es-la
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/?hl=es-la to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2F%3Fhl%3Des-la
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/?hl=he
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/?hl=he to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2F%3Fhl%3Dhe
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/?hl=fa
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/?hl=fa to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2F%3Fhl%3Dfa
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/?hl=ar
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/?hl=ar to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2F%3Fhl%3Dar
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/?hl=ur
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/?hl=ur to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2F%3Fhl%3Dur
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/?hl=en-gb
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/?hl=en-gb to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2F%3Fhl%3Den-gb
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/?hl=sw-ke
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/?hl=sw-ke to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2F%3Fhl%3Dsw-ke
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/?hl=ha-ng
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/?hl=ha-ng to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2F%3Fhl%3Dha-ng
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/?hl=am-et
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/?hl=am-et to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2F%3Fhl%3Dam-et
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/?hl=om-et
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/?hl=om-et to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2F%3Fhl%3Dom-et
+14:09:05	Error: 	"Not Found" (404) at link https://www.instagram.com/SundayBarber/android-app://com.instagram.android/https/instagram.com/_u/SundayBarber/ (from https://www.instagram.com/SundayBarber/)
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/theaustralian.com.au/
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/theaustralian.com.au/ to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2Ftheaustralian.com.au%2F
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/news.com.au/
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/news.com.au/ to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2Fnews.com.au%2F
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/kollosche.com.au/
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/kollosche.com.au/ to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2Fkollosche.com.au%2F
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/awstrack.me/
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/awstrack.me/ to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2Fawstrack.me%2F
+14:09:05	Warning: 	Found for https://www.instagram.com/SundayBarber/NAoCSZ/
+14:09:05	Warning: 	File has moved from https://www.instagram.com/SundayBarber/NAoCSZ/ to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2FSundayBarber%2FNAoCSZ%2F
+14:09:05	Warning: 	Retry after error 500 () at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+14:09:05	Warning: 	Retry after error 500 () at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+14:09:05	Warning: 	Retry after error 500 () at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_640/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+14:09:05	Warning: 	Retry after error 500 () at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_480/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+14:09:05	Warning: 	Retry after error 500 () at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_320/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+14:09:05	Error: 	"" (500) after 2 retries at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+14:09:05	Error: 	"" (500) after 2 retries at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+14:09:05	Error: 	"" (500) after 2 retries at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_640/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+14:09:05	Error: 	"" (500) after 2 retries at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_480/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+14:09:05	Error: 	"" (500) after 2 retries at link https://images.leadconnectorhq.com/image/f_webp/q_80/r_320/u_https://assets.cdn.filesafe.space/Hc6ANtxmiWctVMQLvqwx/media/8c3a2c92-c5ee-4859-8aae-dfdb1d3bf4a0.png (from https://www.sundaybarbers.com/homepage-1595)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 42 seconds : 237 links scanned, 200 files written (23159454 bytes overall) [8926997 bytes received at 19322 bytes/sec], 20107502 bytes transferred using HTTP compression in 93 files, ratio 26%, 1.3 requests per connection
+(7 errors, 41 warnings, 0 messages)

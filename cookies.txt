@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.resurva.com	TRUE	/	FALSE	1999999999	ntvJyiahH59yCfKCRbo4frRd95WnxK1M	3164c248dfa10e11c9800888e0c8c3e5
+.instagram.com	TRUE	/	FALSE	1999999999	ps_l	0
+.instagram.com	TRUE	/	FALSE	1999999999	ps_n	0
+.instagram.com	TRUE	/	FALSE	1999999999	csrftoken	VR65ZDNZJ4v_vLu_zNoKdI
+instagram.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+www.instagram.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+.instagram.com	TRUE	/	FALSE	1999999999	mid	ZdZYJgAEAAHhNFItQzvRy6ZlPyzX
+
